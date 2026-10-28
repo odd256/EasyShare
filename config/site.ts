@@ -7,7 +7,7 @@ export const siteConfig: SiteConfig = {
   author: "你的名字",
   language: "zh-CN", // 页面语言；界面文案仍为中文
   copyrightStartYear: 2026,
-  url: "http://localhost:3000", // 例如 https://username.github.io/my-blog
+  url: "https://odd256.github.io/EasyShare", // 例如 https://username.github.io/my-blog
   notesOrder: "desc", // desc：最新优先；asc：最早优先
   createdFieldName: "created", // Markdown 元数据的创建时间字段
   updatedFieldName: "updated", // Markdown 元数据的更新时间字段
